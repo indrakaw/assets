@@ -1,0 +1,7 @@
+/*
+Ini akan merubah warna latar belakang menjadi merah.
+*/
+
+body {
+  background-color: #f00;
+}
